@@ -1,2 +1,2 @@
 # projects
-Fun projects I have started on my own
+frontend projects I have started on my own
