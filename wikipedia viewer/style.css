@@ -1,0 +1,36 @@
+body {
+  background-color: #5687d4;
+}
+
+.random {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#quote {
+  font-family: Metrophobic;
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+}
+
+.box {
+  display: block;
+  text-align: center;
+}
+
+#search {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  font-family: Metrophobic;
+  font-size: 100%;
+  background: #ededed url(http://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat 9px center;
+  border: solid 1px #ccc;
+  padding: 9px 10px 9px 32px;
+  width: 55px;
+  border-radius: 10em;
+  transition: all .5s;
+}
