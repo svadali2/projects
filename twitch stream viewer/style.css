@@ -1,0 +1,31 @@
+* {
+  margin:0px;
+}
+
+header {
+  margin-left:700px;
+}
+
+h1 {
+  display:inline-block;
+  background-color:#2B3133;
+  color:#1A7134;
+  padding:10px;
+  font-family: 'Oswald', sans-serif;
+  text-align:center;
+  border-radius:10px;
+}
+
+.streamers {
+  display:inline-block;
+  text-align:center;
+  margin-left:700px;
+  margin-bottom:5px;
+  background-color:#243D42;
+  padding:20px;
+  border-radius:10px;
+}
+
+a {
+  padding:20px;
+}
