@@ -1,0 +1,35 @@
+body {
+  background:url(http://i.imgur.com/RM17e1U.jpg) no-repeat;
+  background-position:50% 30%;
+  background-size:100%
+}
+
+.location {
+  display:block;
+  text-align:center;
+  font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+  color:#2dd187;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
+
+.weather {
+  display:inline;
+  font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+  color:#2dd187;
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+  margin-left:47%;
+}
+
+#deets {
+  display:inline;
+}
+
+.weat-img {
+  text-align:center;
+}
